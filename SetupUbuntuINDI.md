@@ -50,7 +50,7 @@ sudo -H pip3 install indiweb
 ```
 
 
-### Install PigPiod / ASI Power (skip this step if you do not have the ASIAIR PRO) KenS from CN created this package. It's still in beta but does work!
+### Install PigPiod / ASI Power (skip this step if you do not have the ASIAIR PRO) KenS from CN created this package.
 ```
 sudo apt -y install pigpio-tools
 
