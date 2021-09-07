@@ -1,4 +1,4 @@
-# Running Ubuntu & INDI on ASIAIR PRO
+# Running Ubuntu & INDI on ASIAIR PRO with KStars
 
 ### WHO IS THIS FOR
 While this is written for the ASIAIR PRO user base these same steps will work for any Rasberry Pi board 3 or 4. You simply need to skip the installation of the indi-asi-power that KenS from our very own CN wrote.
